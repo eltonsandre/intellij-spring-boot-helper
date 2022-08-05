@@ -1,6 +1,6 @@
 - # Terms of Service of Spring boot Helper
 
-  #### Last Updated: Aug 04, 2022
+  #### Last Updated: August 04, 2022
 
 Welcome and thank you for using eltonsandre's Spring boot Helper (“**Spring boot Helper**”, “**we**”)! Spring boot Helper enables users to be more efficient and productive in working with send http request. These Terms of Service (“**Terms**”), along with our DMCA Policy, Privacy Policy, and Acceptable Use Policy (collectively with Terms, the “**Agreement**”), cover your use of and access to our services, software, technology, and support websites (“**Services**”). By using our Services, you’re agreeing to be bound by the terms of this Agreement.
 

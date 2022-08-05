@@ -6,11 +6,11 @@ Assist in Spring application development - Adds support for start initializr, au
 
 ---
 ## Features:
-### Spring Intilializr
+### Spring Initializr
 1. Allows you to bootstrap new project & new module using `File-> New-> Project-> Spring Initializr` & `File-> New-> Module-> Spring Initializr`
    wizards.
 
-<a> <img alt="Spring Intilializr in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-assistant/blob/main/gif/spring-initializr.gif?raw=true" /> </a>
+<a> <img alt="Spring Initializr in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-assistant/blob/main/gif/spring-initializr.gif?raw=true" /> </a>
 
 ### Autocomplete configuration properties
 
