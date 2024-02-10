@@ -7,10 +7,11 @@ Assist in Spring application development - Adds support for start initializr, au
 ---
 ## Features:
 ### Spring Initializr
+⚠️ Resource Moved to plugin ![Spring](https://plugins.jetbrains.com/files/23564/476979/icon/pluginIcon.svg) [Spring Initializr](https://plugins.jetbrains.com/plugin/23564-spring-initializr)
 1. Allows you to bootstrap new project & new module using `File-> New-> Project-> Spring Initializr` & `File-> New-> Module-> Spring Initializr`
    wizards.
 
-<a> <img alt="Spring Initializr in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-assistant/blob/main/gif/spring-initializr.gif?raw=true" /> </a>
+<a> <img alt="Spring Initializr in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-helper/blob/main/gif/spring-initializr.gif?raw=true" /> </a>
 
 ### Autocomplete configuration properties
 
@@ -23,17 +24,17 @@ Assist in Spring application development - Adds support for start initializr, au
 4. Quick documentation for groups & properties (not all groups & properties will have documentation, depends on whether the original author specified
    documentation or not for any given element)
 
-<a> <img alt="Autocomplete in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-assistant/blob/main/gif/completion-hints.gif?raw=true" /> </a>
+<a> <img alt="Autocomplete in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-helper/blob/main/gif/completion-hints.gif?raw=true" /> </a>
 
 ### Go to configuration properties
 
 1. Ctrl+click to go to property or code
 
-<a> <img alt="Goto in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-assistant/blob/main/gif/goto-key-value.gif?raw=true" /> </a>
+<a> <img alt="Goto in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-helper/blob/main/gif/goto-key-value.gif?raw=true" /> </a>
 
 2. Goto placeholder
 
-<a> <img alt="Goto in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-assistant/blob/main/gif/placeholder.gif?raw=true" /> </a>
+<a> <img alt="Goto in action" width="600" src="https://github.com/eltonsandre/intellij-spring-boot-helper/blob/main/gif/placeholder.gif?raw=true" /> </a>
 
 ## Usage
 
@@ -105,4 +106,4 @@ To install the plugin open your editor (IntelliJ) and hit:
 2. Look for `Spring Boot Helper` the right click and select `Download plugin`.
 3. Finally hit the `Apply` button, agree to restart your IDE and you're all done!
 
-Feel free to let me know what else you want added via the [issues](https://github.com/eltonsandre/intellij-spring-boot-assistant/issues)
+Feel free to let me know what else you want added via the [issues](https://github.com/eltonsandre/intellij-spring-boot-helper/issues)
